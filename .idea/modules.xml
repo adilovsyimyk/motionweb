@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/motionweb.iml" filepath="$PROJECT_DIR$/.idea/motionweb.iml" />
+>>>>>>> 319c44ee78502db08a5b8b021eadb3a7445e0e3c
       <module fileurl="file://$PROJECT_DIR$/.idea/motion web.iml" filepath="$PROJECT_DIR$/.idea/motion web.iml" />
     </modules>
   </component>
