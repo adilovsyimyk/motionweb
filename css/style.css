@@ -196,6 +196,347 @@ a {
   transform: scale(1.1);
   color: red;
   border: 2px solid red;
+}
+
+#car .car--trap h1 {
+  width: 420px;
+  height: 54px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #FFFFFF;
+}
+#car .car--trap__btn {
+  padding-top: 15px;
+}
+#car .car--trap__btn--rey {
+  margin: 0 10px;
+  border: none;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  cursor: pointer;
+  transition: 0.4s;
+  color: #2C3E50;
+  width: 80px;
+  height: 40px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+#car .car--trap__btn--rey:hover {
+  background: transparent;
+  transform: scale(1.1);
+  color: red;
+  border: 2px solid red;
+}
+#car .car--trap__btn--cat {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  width: 120px;
+  height: 40px;
+  cursor: pointer;
+  transition: 0.4s;
+  background: #FF1A1A;
+  box-shadow: 0 20px 40px rgba(255, 26, 26, 0.2);
+  border-radius: 10px;
+  border: none;
+}
+#car .car--trap__btn--cat:hover {
+  background: transparent;
+  transform: scale(1.1);
+  color: red;
+  border: 2px solid red;
+}
+#car .car--clet {
+  padding-top: 20px;
+  padding-left: 20px;
+  margin-top: 25px;
+  width: 326px;
+  height: 300px;
+  background: #FFFFFF;
+  border-radius: 15px;
+}
+#car .car--clet button {
+  width: 80px;
+  height: 20px;
+  background: #9099A3;
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: 400;
+  cursor: pointer;
+  transition: 0.4s;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
+  border: none;
+}
+#car .car--clet button:hover {
+  background: transparent;
+  transform: scale(1.1);
+  color: red;
+  border: 2px solid red;
+}
+#car .car--clet a {
+  padding: 5px;
+  width: 35px;
+  height: 18px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #9099A3;
+}
+#car .car--clet h1 {
+  padding-top: 10px;
+  width: 240px;
+  height: 60px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #2C3E50;
+}
+#car .car--clet p {
+  padding-top: 10px;
+  width: 276px;
+  height: 74px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #2C3E50;
+}
+#car .car--clet__tor {
+  margin-top: 50px;
+  width: 305px;
+  top: 2210px;
+  border: 0.5px solid #9099A3;
+  transform: rotate(-0.24deg);
+}
+#car .car--clet__cor {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+}
+#car .car--clet__cor--rot img {
+  padding: 10px;
+}
+#car .car--clet__cor h2 {
+  width: 210px;
+  height: 24px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2C3E50;
+}
+#car .car--clet__cor h3 {
+  width: 108px;
+  height: 21px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #9099A3;
+}
+#car .car--she {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#car .car--care {
+  padding-top: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#car .car--care button {
+  width: 340px;
+  height: 50px;
+  filter: drop-shadow(0px 5px 8px rgba(26, 92, 255, 0.2));
+  border-radius: 12px;
+  font-style: normal;
+  font-weight: 900;
+  cursor: pointer;
+  transition: 0.4s;
+  font-size: 18px;
+  line-height: 27px;
+  color: #9099A3;
+  border: none;
+}
+#car .car--care button:hover {
+  background: transparent;
+  transform: scale(1.1);
+  color: red;
+  border: 2px solid red;
+}
+
+#tro .tro {
+  padding-top: 20px;
+  display: flex;
+}
+#tro .tro--wit h1 {
+  padding-top: 20px;
+  width: 497px;
+  height: 34px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #FFFFFF;
+}
+#tro .tro--wit p {
+  padding-top: 20px;
+  width: 302px;
+  height: 81px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #9099A3;
+}
+#tro .tro--heit h1 {
+  margin: 5px;
+  padding-top: 20px;
+  width: 206px;
+  height: 17px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #9099A3;
+}
+#tro .tro--heit__pan input {
+  padding: 15px;
+  outline: none;
+  color: #FFFFFF;
+  border: none;
+  width: 616px;
+  height: 20px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 15px;
+}
+#tro .tro--gain {
+  padding-top: 30px;
+  display: flex;
+}
+#tro .tro--gain p {
+  padding-top: 10px;
+  width: 306px;
+  height: 40px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+#tro .tro--gain button {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+  cursor: pointer;
+  transition: 0.4s;
+  color: #FFFFFF;
+  width: 280px;
+  height: 60px;
+  background: #FF1A1A;
+  box-shadow: 0 5px 8px rgba(255, 26, 26, 0.2);
+  border-radius: 15px;
+  border: none;
+}
+#tro .tro--gain button:hover {
+  background: transparent;
+  transform: scale(1.1);
+  color: red;
+  border: 2px solid red;
+}
+
+#dar .dar--tup {
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#dar .dar--tup h1 {
+  width: 153px;
+  height: 54px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #FFFFFF;
+}
+#dar .dar--weu {
+  padding-top: 25px;
+  margin-left: -25px;
+  width: 1270px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#dar .dar--col {
+  position: relative;
+  margin-top: 30px;
+  width: 400px;
+  height: 235px;
+  background: #646161;
+  border-radius: 15px;
+}
+#dar .dar--col img {
+  position: absolute;
+  top: -20px;
+  left: 175px;
+  border-radius: 15px;
+}
+#dar .dar--col p {
+  padding-top: 55px;
+  margin-left: 50px;
+  width: 300px;
+  height: 72px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  color: #FFFFFF;
+}
+#dar .dar--col__tray {
+  display: flex;
+  margin-left: 45px;
+  padding-top: 25px;
+}
+#dar .dar--col__tray h1 {
+  width: 150px;
+  height: 21px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
+#dar .dar--col__tray h2 {
+  width: 183px;
+  height: 18px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: rgba(255, 255, 255, 0.6);
+}
+#dar .dar--col__feg {
+  padding-top: 10px;
+}
+#dar .dar--col__feg button {
+  margin-left: 170px;
+  width: 206px;
+  height: 40px;
+  background: #FF1A1A;
+  box-shadow: 0 8px 20px rgba(255, 26, 26, 0.2);
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: 900;
+  cursor: pointer;
+  transition: 0.4s;
 body {
   background: #1E2024;
   font-family: sans-serif;
@@ -260,6 +601,98 @@ body {
   line-height: 21px;
   text-transform: uppercase;
   color: #FFFFFF;
+  border: none;
+}
+#dar .dar--col__feg button:hover {
+  background: transparent;
+  transform: scale(1.1);
+  color: red;
+  border: 2px solid red;
+}
+
+#gou .gou {
+  display: flex;
+  align-items: center;
+}
+#gou .gou--goy {
+  padding-top: 120px;
+}
+#gou .gou--goy p {
+  margin-top: 90px;
+  height: 15px;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+  color: #9099A3;
+}
+#gou .gou--roi {
+  margin-left: 20px;
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+}
+#gou .gou--roi h1 {
+  padding: 10px;
+  width: 157px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+  color: #FFFFFF;
+}
+#gou .gou--roi a {
+  padding: 10px;
+  width: 90px;
+  height: 21px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #9099A3;
+}
+#gou .gou--roy {
+  margin-left: 50px;
+}
+#gou .gou--roy h1 {
+  padding-top: 40px;
+  width: 263px;
+  height: 27px;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 27px;
+  color: #FFFFFF;
+}
+#gou .gou--roy p {
+  padding-top: 20px;
+  width: 228px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #9099A3;
+}
+#gou .gou--roy ion-icon {
+  color: #FFFFFF;
+  margin: -5px;
+  padding-top: 30px;
+  margin-left: 15px;
+}
+#gou .gou--rpo {
+  padding-top: 150px;
+}
+#gou .gou--rpo p {
+  padding: 30px;
+  width: 275px;
+  height: 63px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #9099A3;
+}
+#gou .gou--rpo a {
+  width: 217px;
+  height: 15px;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+  color: #9099A3;
   background: #FF1A1A;
   box-shadow: 0 8px 20px rgba(255, 26, 26, 0.2);
   border-radius: 10px;
