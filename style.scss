@@ -1,1 +1,36 @@
 @import "global";
+
+#header {
+  background: rgba(16, 0, 0, 0.78);
+  padding: 20px 0;
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &--left {
+      display: flex;
+
+      img {
+        margin: 0 14px 0 0;
+      }
+
+      h1 {
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 12px;
+        color: #ffff;
+      }
+    }
+
+    &--nav {
+      a {
+        margin: 0 90px 10px 10px;
+        font-weight: 500;
+        font-size: 16px;
+        color: #9099A3;
+      }
+    }
+  }
+}

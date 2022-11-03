@@ -12,4 +12,32 @@ a {
   margin: 0 auto;
 }
 
+#header {
+  background: rgba(16, 0, 0, 0.78);
+  padding: 20px 0;
+}
+#header .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#header .header--left {
+  display: flex;
+}
+#header .header--left img {
+  margin: 0 14px 0 0;
+}
+#header .header--left h1 {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 12px;
+  color: white;
+}
+#header .header--nav a {
+  margin: 0 90px 10px 10px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #9099A3;
+}
+
 /*# sourceMappingURL=style.css.map */
